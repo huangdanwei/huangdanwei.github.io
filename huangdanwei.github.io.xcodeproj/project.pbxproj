@@ -1,0 +1,265 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		6CBD421B293207B5001ED55A /* links.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = links.html; sourceTree = "<group>"; };
+		6CBD421C293207B5001ED55A /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		6CBD421D293207B5001ED55A /* samuelchan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = samuelchan.html; sourceTree = "<group>"; };
+		6CBD421E293207B5001ED55A /* lingminkang.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = lingminkang.html; sourceTree = "<group>"; };
+		6CBD421F293207B5001ED55A /* lutfiafiqrosli.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = lutfiafiqrosli.html; sourceTree = "<group>"; };
+		6CBD4220293207B5001ED55A /* ashleentan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ashleentan.html; sourceTree = "<group>"; };
+		6CBD4221293207B5001ED55A /* huangdanwei.github.io.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = huangdanwei.github.io.xcodeproj; sourceTree = "<group>"; };
+		6CBD4224293207B5001ED55A /* sherylchan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sherylchan.html; sourceTree = "<group>"; };
+		6CBD4225293207B5001ED55A /* benwainwright.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = benwainwright.html; sourceTree = "<group>"; };
+		6CBD4226293207B5001ED55A /* choulokeming2016.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = choulokeming2016.pdf; sourceTree = "<group>"; };
+		6CBD4227293207B5001ED55A /* lionelng.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = lionelng.html; sourceTree = "<group>"; };
+		6CBD4228293207B5001ED55A /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		6CBD4229293207B5001ED55A /* choominyi.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = choominyi.html; sourceTree = "<group>"; };
+		6CBD422A293207B5001ED55A /* fooszehui.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = fooszehui.html; sourceTree = "<group>"; };
+		6CBD422B293207B5001ED55A /* jeffreylow.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = jeffreylow.html; sourceTree = "<group>"; };
+		6CBD422C293207B5001ED55A /* crystlewee.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = crystlewee.html; sourceTree = "<group>"; };
+		6CBD422D293207B5001ED55A /* gansuxuan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = gansuxuan.html; sourceTree = "<group>"; };
+		6CBD422E293207B5001ED55A /* karennetun.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = karennetun.html; sourceTree = "<group>"; };
+		6CBD422F293207B5001ED55A /* linusng.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = linusng.html; sourceTree = "<group>"; };
+		6CBD4230293207B5001ED55A /* adelenechia.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = adelenechia.html; sourceTree = "<group>"; };
+		6CBD4231293207B5001ED55A /* diving.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = diving.pdf; sourceTree = "<group>"; };
+		6CBD4232293207B6001ED55A /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		6CBD4233293207B6001ED55A /* localities */ = {isa = PBXFileReference; lastKnownFileType = folder; path = localities; sourceTree = "<group>"; };
+		6CBD4234293207B6001ED55A /* nicholasyap.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = nicholasyap.html; sourceTree = "<group>"; };
+		6CBD4235293207B6001ED55A /* prashamaithani.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = prashamaithani.html; sourceTree = "<group>"; };
+		6CBD4236293207B6001ED55A /* sudhanshijain.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sudhanshijain.html; sourceTree = "<group>"; };
+		6CBD4237293207B6001ED55A /* racheltan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = racheltan.html; sourceTree = "<group>"; };
+		6CBD4238293207B6001ED55A /* gallery */ = {isa = PBXFileReference; lastKnownFileType = folder; path = gallery; sourceTree = "<group>"; };
+		6CBD4239293207B6001ED55A /* dennistan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = dennistan.html; sourceTree = "<group>"; };
+		6CBD423A293207B6001ED55A /* limjiaxuan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = limjiaxuan.html; sourceTree = "<group>"; };
+		6CBD423B293207B6001ED55A /* yipzhiting.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = yipzhiting.html; sourceTree = "<group>"; };
+		6CBD423C293207B6001ED55A /* rachelmark.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = rachelmark.html; sourceTree = "<group>"; };
+		6CBD423D293207B6001ED55A /* information */ = {isa = PBXFileReference; lastKnownFileType = folder; path = information; sourceTree = "<group>"; };
+		6CBD423E293207B6001ED55A /* jessicaye.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = jessicaye.html; sourceTree = "<group>"; };
+		6CBD423F293207B6001ED55A /* choomin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = choomin.html; sourceTree = "<group>"; };
+		6CBD4240293207B6001ED55A /* neomeilin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = neomeilin.html; sourceTree = "<group>"; };
+		6CBD4241293207B7001ED55A /* randolphquek.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = randolphquek.html; sourceTree = "<group>"; };
+		6CBD4242293207B7001ED55A /* ngjuatying.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ngjuatying.html; sourceTree = "<group>"; };
+		6CBD4243293207B7001ED55A /* gavanleong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = gavanleong.html; sourceTree = "<group>"; };
+		6CBD4244293207B7001ED55A /* tayyweechieh.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = tayyweechieh.html; sourceTree = "<group>"; };
+		6CBD4245293207B7001ED55A /* elenabollati.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = elenabollati.html; sourceTree = "<group>"; };
+		6CBD4246293207B7001ED55A /* choulokeming.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = choulokeming.pdf; sourceTree = "<group>"; };
+		6CBD4247293207B7001ED55A /* rosapoquita.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = rosapoquita.html; sourceTree = "<group>"; };
+		6CBD4248293207B7001ED55A /* delonwee.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = delonwee.html; sourceTree = "<group>"; };
+		6CBD4249293207B7001ED55A /* tayyweechieh2016.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = tayyweechieh2016.pdf; sourceTree = "<group>"; };
+		6CBD424A293207B7001ED55A /* gwendolynchow.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = gwendolynchow.html; sourceTree = "<group>"; };
+		6CBD424B293207B7001ED55A /* andrealeong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = andrealeong.html; sourceTree = "<group>"; };
+		6CBD424C293207B7001ED55A /* joywong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = joywong.html; sourceTree = "<group>"; };
+		6CBD424D293207B7001ED55A /* edwintan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = edwintan.html; sourceTree = "<group>"; };
+		6CBD424E293207B7001ED55A /* lokehaixin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = lokehaixin.html; sourceTree = "<group>"; };
+		6CBD424F293207B7001ED55A /* default.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = default.css; sourceTree = "<group>"; };
+		6CBD4250293207B7001ED55A /* lowinnzheng.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = lowinnzheng.html; sourceTree = "<group>"; };
+		6CBD4251293207B7001ED55A /* tayyweechieh.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = tayyweechieh.pdf; sourceTree = "<group>"; };
+		6CBD4252293207B7001ED55A /* veronpwa.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = veronpwa.html; sourceTree = "<group>"; };
+		6CBD4253293207B7001ED55A /* publications.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = publications.html; sourceTree = "<group>"; };
+		6CBD4254293207B8001ED55A /* choulokeming.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = choulokeming.html; sourceTree = "<group>"; };
+		6CBD4255293207B8001ED55A /* tohkokben.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = tohkokben.html; sourceTree = "<group>"; };
+		6CBD4256293207B8001ED55A /* publications */ = {isa = PBXFileReference; lastKnownFileType = folder; path = publications; sourceTree = "<group>"; };
+		6CBD4257293207B8001ED55A /* tranthiminhhang.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = tranthiminhhang.html; sourceTree = "<group>"; };
+		6CBD4258293207B8001ED55A /* ahmadrashid.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ahmadrashid.html; sourceTree = "<group>"; };
+		6CBD4259293207B8001ED55A /* szeyue.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = szeyue.html; sourceTree = "<group>"; };
+		6CBD425A293207B8001ED55A /* chooyifeng.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = chooyifeng.html; sourceTree = "<group>"; };
+		6CBD425B293207B8001ED55A /* nhungnguyen.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = nhungnguyen.html; sourceTree = "<group>"; };
+		6CBD425C293207B8001ED55A /* nicolelee.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = nicolelee.html; sourceTree = "<group>"; };
+		6CBD425D293207B8001ED55A /* patrickcabaitan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = patrickcabaitan.html; sourceTree = "<group>"; };
+		6CBD425E293207B8001ED55A /* valeriekwan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = valeriekwan.html; sourceTree = "<group>"; };
+		6CBD425F293207B8001ED55A /* favicon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon.ico; sourceTree = "<group>"; };
+		6CBD4260293207B8001ED55A /* ohrenmin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ohrenmin.html; sourceTree = "<group>"; };
+		6CBD4261293207B8001ED55A /* marcchang.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = marcchang.html; sourceTree = "<group>"; };
+		6CBD4262293207B8001ED55A /* lawmeiting.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = lawmeiting.html; sourceTree = "<group>"; };
+		6CBD4263293207B9001ED55A /* ngzhisheng.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ngzhisheng.html; sourceTree = "<group>"; };
+		6CBD4264293207B9001ED55A /* ongjinghui.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ongjinghui.html; sourceTree = "<group>"; };
+		6CBD4265293207B9001ED55A /* rochellechan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = rochellechan.html; sourceTree = "<group>"; };
+		6CBD4266293207B9001ED55A /* license.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = license.txt; sourceTree = "<group>"; };
+		6CBD4267293207B9001ED55A /* huangdanwei.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = huangdanwei.html; sourceTree = "<group>"; };
+		6CBD4268293207B9001ED55A /* angieseow.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = angieseow.html; sourceTree = "<group>"; };
+		6CBD4269293207B9001ED55A /* dhivyakanisan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = dhivyakanisan.html; sourceTree = "<group>"; };
+		6CBD426A293207B9001ED55A /* tohtaichong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = tohtaichong.html; sourceTree = "<group>"; };
+		6CBD426B293207B9001ED55A /* daisuketaira.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = daisuketaira.html; sourceTree = "<group>"; };
+		6CBD426C293207B9001ED55A /* kikuzawayuichi.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = kikuzawayuichi.html; sourceTree = "<group>"; };
+		6CBD426D293207B9001ED55A /* choulokeming2014.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = choulokeming2014.pdf; sourceTree = "<group>"; };
+		6CBD426E293207B9001ED55A /* astrisamsuri.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = astrisamsuri.html; sourceTree = "<group>"; };
+		6CBD426F293207B9001ED55A /* people.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = people.html; sourceTree = "<group>"; };
+		6CBD4270293207B9001ED55A /* sherlynlim.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sherlynlim.html; sourceTree = "<group>"; };
+		6CBD4271293207B9001ED55A /* chuayingzhi.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = chuayingzhi.html; sourceTree = "<group>"; };
+		6CBD4272293207B9001ED55A /* menu.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = menu.html; sourceTree = "<group>"; };
+		6CBD4273293207B9001ED55A /* samshuqin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = samshuqin.html; sourceTree = "<group>"; };
+		6CBD4274293207B9001ED55A /* simwanting.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = simwanting.html; sourceTree = "<group>"; };
+		6CBD4275293207B9001ED55A /* abigayleng.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = abigayleng.html; sourceTree = "<group>"; };
+		6CBD4276293207B9001ED55A /* singapore.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = singapore.html; sourceTree = "<group>"; };
+		6CBD4277293207B9001ED55A /* adenip.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = adenip.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6CBD421429320784001ED55A = {
+			isa = PBXGroup;
+			children = (
+				6CBD4275293207B9001ED55A /* abigayleng.html */,
+				6CBD4230293207B5001ED55A /* adelenechia.html */,
+				6CBD4277293207B9001ED55A /* adenip.html */,
+				6CBD4258293207B8001ED55A /* ahmadrashid.html */,
+				6CBD424B293207B7001ED55A /* andrealeong.html */,
+				6CBD4268293207B9001ED55A /* angieseow.html */,
+				6CBD4220293207B5001ED55A /* ashleentan.html */,
+				6CBD426E293207B9001ED55A /* astrisamsuri.html */,
+				6CBD4225293207B5001ED55A /* benwainwright.html */,
+				6CBD423F293207B6001ED55A /* choomin.html */,
+				6CBD4229293207B5001ED55A /* choominyi.html */,
+				6CBD425A293207B8001ED55A /* chooyifeng.html */,
+				6CBD4254293207B8001ED55A /* choulokeming.html */,
+				6CBD4246293207B7001ED55A /* choulokeming.pdf */,
+				6CBD426D293207B9001ED55A /* choulokeming2014.pdf */,
+				6CBD4226293207B5001ED55A /* choulokeming2016.pdf */,
+				6CBD4271293207B9001ED55A /* chuayingzhi.html */,
+				6CBD4232293207B6001ED55A /* CNAME */,
+				6CBD422C293207B5001ED55A /* crystlewee.html */,
+				6CBD426B293207B9001ED55A /* daisuketaira.html */,
+				6CBD424F293207B7001ED55A /* default.css */,
+				6CBD4248293207B7001ED55A /* delonwee.html */,
+				6CBD4239293207B6001ED55A /* dennistan.html */,
+				6CBD4269293207B9001ED55A /* dhivyakanisan.html */,
+				6CBD4231293207B5001ED55A /* diving.pdf */,
+				6CBD424D293207B7001ED55A /* edwintan.html */,
+				6CBD4245293207B7001ED55A /* elenabollati.html */,
+				6CBD425F293207B8001ED55A /* favicon.ico */,
+				6CBD422A293207B5001ED55A /* fooszehui.html */,
+				6CBD4238293207B6001ED55A /* gallery */,
+				6CBD422D293207B5001ED55A /* gansuxuan.html */,
+				6CBD4243293207B7001ED55A /* gavanleong.html */,
+				6CBD424A293207B7001ED55A /* gwendolynchow.html */,
+				6CBD4221293207B5001ED55A /* huangdanwei.github.io.xcodeproj */,
+				6CBD4267293207B9001ED55A /* huangdanwei.html */,
+				6CBD421C293207B5001ED55A /* images */,
+				6CBD4228293207B5001ED55A /* index.html */,
+				6CBD423D293207B6001ED55A /* information */,
+				6CBD422B293207B5001ED55A /* jeffreylow.html */,
+				6CBD423E293207B6001ED55A /* jessicaye.html */,
+				6CBD424C293207B7001ED55A /* joywong.html */,
+				6CBD422E293207B5001ED55A /* karennetun.html */,
+				6CBD426C293207B9001ED55A /* kikuzawayuichi.html */,
+				6CBD4262293207B8001ED55A /* lawmeiting.html */,
+				6CBD4266293207B9001ED55A /* license.txt */,
+				6CBD423A293207B6001ED55A /* limjiaxuan.html */,
+				6CBD421E293207B5001ED55A /* lingminkang.html */,
+				6CBD421B293207B5001ED55A /* links.html */,
+				6CBD422F293207B5001ED55A /* linusng.html */,
+				6CBD4227293207B5001ED55A /* lionelng.html */,
+				6CBD4233293207B6001ED55A /* localities */,
+				6CBD424E293207B7001ED55A /* lokehaixin.html */,
+				6CBD4250293207B7001ED55A /* lowinnzheng.html */,
+				6CBD421F293207B5001ED55A /* lutfiafiqrosli.html */,
+				6CBD4261293207B8001ED55A /* marcchang.html */,
+				6CBD4272293207B9001ED55A /* menu.html */,
+				6CBD4240293207B6001ED55A /* neomeilin.html */,
+				6CBD4242293207B7001ED55A /* ngjuatying.html */,
+				6CBD4263293207B9001ED55A /* ngzhisheng.html */,
+				6CBD425B293207B8001ED55A /* nhungnguyen.html */,
+				6CBD4234293207B6001ED55A /* nicholasyap.html */,
+				6CBD425C293207B8001ED55A /* nicolelee.html */,
+				6CBD4260293207B8001ED55A /* ohrenmin.html */,
+				6CBD4264293207B9001ED55A /* ongjinghui.html */,
+				6CBD425D293207B8001ED55A /* patrickcabaitan.html */,
+				6CBD426F293207B9001ED55A /* people.html */,
+				6CBD4235293207B6001ED55A /* prashamaithani.html */,
+				6CBD4256293207B8001ED55A /* publications */,
+				6CBD4253293207B7001ED55A /* publications.html */,
+				6CBD423C293207B6001ED55A /* rachelmark.html */,
+				6CBD4237293207B6001ED55A /* racheltan.html */,
+				6CBD4241293207B7001ED55A /* randolphquek.html */,
+				6CBD4265293207B9001ED55A /* rochellechan.html */,
+				6CBD4247293207B7001ED55A /* rosapoquita.html */,
+				6CBD4273293207B9001ED55A /* samshuqin.html */,
+				6CBD421D293207B5001ED55A /* samuelchan.html */,
+				6CBD4270293207B9001ED55A /* sherlynlim.html */,
+				6CBD4224293207B5001ED55A /* sherylchan.html */,
+				6CBD4274293207B9001ED55A /* simwanting.html */,
+				6CBD4276293207B9001ED55A /* singapore.html */,
+				6CBD4236293207B6001ED55A /* sudhanshijain.html */,
+				6CBD4259293207B8001ED55A /* szeyue.html */,
+				6CBD4244293207B7001ED55A /* tayyweechieh.html */,
+				6CBD4251293207B7001ED55A /* tayyweechieh.pdf */,
+				6CBD4249293207B7001ED55A /* tayyweechieh2016.pdf */,
+				6CBD4255293207B8001ED55A /* tohkokben.html */,
+				6CBD426A293207B9001ED55A /* tohtaichong.html */,
+				6CBD4257293207B8001ED55A /* tranthiminhhang.html */,
+				6CBD425E293207B8001ED55A /* valeriekwan.html */,
+				6CBD4252293207B7001ED55A /* veronpwa.html */,
+				6CBD423B293207B6001ED55A /* yipzhiting.html */,
+			);
+			sourceTree = "<group>";
+		};
+		6CBD4222293207B5001ED55A /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		6CBD421529320784001ED55A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+			};
+			buildConfigurationList = 6CBD421829320784001ED55A /* Build configuration list for PBXProject "huangdanwei.github.io" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6CBD421429320784001ED55A;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 6CBD4222293207B5001ED55A /* Products */;
+					ProjectRef = 6CBD4221293207B5001ED55A /* huangdanwei.github.io.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		6CBD421929320784001ED55A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		6CBD421A29320784001ED55A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6CBD421829320784001ED55A /* Build configuration list for PBXProject "huangdanwei.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6CBD421929320784001ED55A /* Debug */,
+				6CBD421A29320784001ED55A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6CBD421529320784001ED55A /* Project object */;
+}
