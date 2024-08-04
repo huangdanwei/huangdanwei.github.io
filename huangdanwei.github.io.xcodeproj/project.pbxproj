@@ -9,6 +9,9 @@
 /* Begin PBXFileReference section */
 		6C72F7D729DF025F00BE7140 /* stacialoong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = stacialoong.html; sourceTree = "<group>"; };
 		6CAEAD112AB4A45400B6697F /* samueldiong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = samueldiong.html; sourceTree = "<group>"; };
+		6CB6FE102C5FC50100B798FC /* hojinchi.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = hojinchi.html; sourceTree = "<group>"; };
+		6CB6FE112C5FC6A800B798FC /* ngyufei.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ngyufei.html; sourceTree = "<group>"; };
+		6CB6FE122C5FC95700B798FC /* denisemcintyre.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = denisemcintyre.html; sourceTree = "<group>"; };
 		6CBD421B293207B5001ED55A /* links.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = links.html; sourceTree = "<group>"; };
 		6CBD421C293207B5001ED55A /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		6CBD421D293207B5001ED55A /* samuelchan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = samuelchan.html; sourceTree = "<group>"; };
@@ -183,6 +186,9 @@
 				6CBD4273293207B9001ED55A /* samshuqin.html */,
 				6CBD421D293207B5001ED55A /* samuelchan.html */,
 				6CAEAD112AB4A45400B6697F /* samueldiong.html */,
+				6CB6FE122C5FC95700B798FC /* denisemcintyre.html */,
+				6CB6FE112C5FC6A800B798FC /* ngyufei.html */,
+				6CB6FE102C5FC50100B798FC /* hojinchi.html */,
 				6CBD4270293207B9001ED55A /* sherlynlim.html */,
 				6CBD4224293207B5001ED55A /* sherylchan.html */,
 				6CBD4274293207B9001ED55A /* simwanting.html */,
