@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		6C1ED6772E424E14005179C1 /* halimahrazali.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = halimahrazali.html; sourceTree = "<group>"; };
 		6C3407C82E3F9E1500926AE1 /* allisonmiller.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = allisonmiller.html; sourceTree = "<group>"; };
 		6C72F7D729DF025F00BE7140 /* stacialoong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = stacialoong.html; sourceTree = "<group>"; };
 		6CAEAD112AB4A45400B6697F /* samueldiong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = samueldiong.html; sourceTree = "<group>"; };
@@ -135,6 +136,7 @@
 				6CBD424F293207B7001ED55A /* default.css */,
 				6CBD4248293207B7001ED55A /* delonwee.html */,
 				6CB6FE122C5FC95700B798FC /* denisemcintyre.html */,
+				6C1ED6772E424E14005179C1 /* halimahrazali.html */,
 				6CBD4239293207B6001ED55A /* dennistan.html */,
 				6CBD4269293207B9001ED55A /* dhivyakanisan.html */,
 				6CBD4231293207B5001ED55A /* diving.pdf */,
