@@ -9,6 +9,9 @@
 /* Begin PBXFileReference section */
 		6C1ED6772E424E14005179C1 /* halimahrazali.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = halimahrazali.html; sourceTree = "<group>"; };
 		6C3407C82E3F9E1500926AE1 /* allisonmiller.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = allisonmiller.html; sourceTree = "<group>"; };
+		6C5DF4862E6DD675002B6FCB /* rachaelgoh.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = rachaelgoh.html; sourceTree = "<group>"; };
+		6C5DF4872E6DD7AB002B6FCB /* jamescabatbat.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = jamescabatbat.html; sourceTree = "<group>"; };
+		6C5DF4882E6DD988002B6FCB /* ngjiexin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ngjiexin.html; sourceTree = "<group>"; };
 		6C72F7D729DF025F00BE7140 /* stacialoong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = stacialoong.html; sourceTree = "<group>"; };
 		6CAEAD112AB4A45400B6697F /* samueldiong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = samueldiong.html; sourceTree = "<group>"; };
 		6CB6FE102C5FC50100B798FC /* hojinchi.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = hojinchi.html; sourceTree = "<group>"; };
@@ -149,6 +152,8 @@
 				6CBD4243293207B7001ED55A /* gavanleong.html */,
 				6CBD424A293207B7001ED55A /* gwendolynchow.html */,
 				6CB6FE102C5FC50100B798FC /* hojinchi.html */,
+				6C5DF4872E6DD7AB002B6FCB /* jamescabatbat.html */,
+				6C5DF4882E6DD988002B6FCB /* ngjiexin.html */,
 				6CBD4267293207B9001ED55A /* huangdanwei.html */,
 				6CBD4221293207B5001ED55A /* huangdanwei.github.io.xcodeproj */,
 				6CBD421C293207B5001ED55A /* images */,
@@ -186,6 +191,7 @@
 				6CBD4235293207B6001ED55A /* prashamaithani.html */,
 				6CBD4256293207B8001ED55A /* publications */,
 				6CBD4253293207B7001ED55A /* publications.html */,
+				6C5DF4862E6DD675002B6FCB /* rachaelgoh.html */,
 				6CBD423C293207B6001ED55A /* rachelmark.html */,
 				6CBD4237293207B6001ED55A /* racheltan.html */,
 				6CBD4241293207B7001ED55A /* randolphquek.html */,
@@ -226,7 +232,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastUpgradeCheck = 1430;
+				LastUpgradeCheck = 1640;
 			};
 			buildConfigurationList = 6CBD421829320784001ED55A /* Build configuration list for PBXProject "huangdanwei.github.io" */;
 			compatibilityVersion = "Xcode 14.0";
@@ -254,6 +260,7 @@
 		6CBD421929320784001ED55A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
@@ -275,6 +282,7 @@
 				DEAD_CODE_STRIPPING = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -289,6 +297,7 @@
 		6CBD421A29320784001ED55A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
@@ -309,6 +318,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				DEAD_CODE_STRIPPING = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
