@@ -109,6 +109,7 @@
 		6CBD4275293207B9001ED55A /* abigayleng.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = abigayleng.html; sourceTree = "<group>"; };
 		6CBD4276293207B9001ED55A /* singapore.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = singapore.html; sourceTree = "<group>"; };
 		6CBD4277293207B9001ED55A /* adenip.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = adenip.html; sourceTree = "<group>"; };
+		6CF26D142F2BB3DC009B6E6B /* georgfluckiger.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = georgfluckiger.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -201,6 +202,7 @@
 				6CBD4273293207B9001ED55A /* samshuqin.html */,
 				6CBD421D293207B5001ED55A /* samuelchan.html */,
 				6CAEAD112AB4A45400B6697F /* samueldiong.html */,
+				6CF26D142F2BB3DC009B6E6B /* georgfluckiger.html */,
 				6CBD4270293207B9001ED55A /* sherlynlim.html */,
 				6CBD4224293207B5001ED55A /* sherylchan.html */,
 				6CBD4274293207B9001ED55A /* simwanting.html */,
