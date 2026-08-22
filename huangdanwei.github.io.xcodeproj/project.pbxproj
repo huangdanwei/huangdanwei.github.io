@@ -110,6 +110,7 @@
 		6CBD4276293207B9001ED55A /* singapore.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = singapore.html; sourceTree = "<group>"; };
 		6CBD4277293207B9001ED55A /* adenip.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = adenip.html; sourceTree = "<group>"; };
 		6CF26D142F2BB3DC009B6E6B /* georgfluckiger.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = georgfluckiger.html; sourceTree = "<group>"; };
+		6CF709243039D4CB0078DFC9 /* emmamiller.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = emmamiller.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -140,26 +141,27 @@
 				6CBD424F293207B7001ED55A /* default.css */,
 				6CBD4248293207B7001ED55A /* delonwee.html */,
 				6CB6FE122C5FC95700B798FC /* denisemcintyre.html */,
-				6C1ED6772E424E14005179C1 /* halimahrazali.html */,
 				6CBD4239293207B6001ED55A /* dennistan.html */,
 				6CBD4269293207B9001ED55A /* dhivyakanisan.html */,
 				6CBD4231293207B5001ED55A /* diving.pdf */,
 				6CBD424D293207B7001ED55A /* edwintan.html */,
 				6CBD4245293207B7001ED55A /* elenabollati.html */,
+				6CF709243039D4CB0078DFC9 /* emmamiller.html */,
 				6CBD425F293207B8001ED55A /* favicon.ico */,
 				6CBD422A293207B5001ED55A /* fooszehui.html */,
 				6CBD4238293207B6001ED55A /* gallery */,
 				6CBD422D293207B5001ED55A /* gansuxuan.html */,
 				6CBD4243293207B7001ED55A /* gavanleong.html */,
+				6CF26D142F2BB3DC009B6E6B /* georgfluckiger.html */,
 				6CBD424A293207B7001ED55A /* gwendolynchow.html */,
+				6C1ED6772E424E14005179C1 /* halimahrazali.html */,
 				6CB6FE102C5FC50100B798FC /* hojinchi.html */,
-				6C5DF4872E6DD7AB002B6FCB /* jamescabatbat.html */,
-				6C5DF4882E6DD988002B6FCB /* ngjiexin.html */,
 				6CBD4267293207B9001ED55A /* huangdanwei.html */,
 				6CBD4221293207B5001ED55A /* huangdanwei.github.io.xcodeproj */,
 				6CBD421C293207B5001ED55A /* images */,
 				6CBD4228293207B5001ED55A /* index.html */,
 				6CBD423D293207B6001ED55A /* information */,
+				6C5DF4872E6DD7AB002B6FCB /* jamescabatbat.html */,
 				6CBD422B293207B5001ED55A /* jeffreylow.html */,
 				6CBD423E293207B6001ED55A /* jessicaye.html */,
 				6CBD424C293207B7001ED55A /* joywong.html */,
@@ -179,6 +181,7 @@
 				6CBD4261293207B8001ED55A /* marcchang.html */,
 				6CBD4272293207B9001ED55A /* menu.html */,
 				6CBD4240293207B6001ED55A /* neomeilin.html */,
+				6C5DF4882E6DD988002B6FCB /* ngjiexin.html */,
 				6CBD4242293207B7001ED55A /* ngjuatying.html */,
 				6CB6FE112C5FC6A800B798FC /* ngyufei.html */,
 				6CBD4263293207B9001ED55A /* ngzhisheng.html */,
@@ -202,7 +205,6 @@
 				6CBD4273293207B9001ED55A /* samshuqin.html */,
 				6CBD421D293207B5001ED55A /* samuelchan.html */,
 				6CAEAD112AB4A45400B6697F /* samueldiong.html */,
-				6CF26D142F2BB3DC009B6E6B /* georgfluckiger.html */,
 				6CBD4270293207B9001ED55A /* sherlynlim.html */,
 				6CBD4224293207B5001ED55A /* sherylchan.html */,
 				6CBD4274293207B9001ED55A /* simwanting.html */,
