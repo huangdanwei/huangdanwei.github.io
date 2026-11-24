@@ -14,6 +14,7 @@
 		6C5DF4882E6DD988002B6FCB /* ngjiexin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ngjiexin.html; sourceTree = "<group>"; };
 		6C72F7D729DF025F00BE7140 /* stacialoong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = stacialoong.html; sourceTree = "<group>"; };
 		6CAEAD112AB4A45400B6697F /* samueldiong.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = samueldiong.html; sourceTree = "<group>"; };
+		6CB2122730B5D782009D1E4D /* apcrs2023.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = apcrs2023.html; sourceTree = "<group>"; };
 		6CB6FE102C5FC50100B798FC /* hojinchi.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = hojinchi.html; sourceTree = "<group>"; };
 		6CB6FE112C5FC6A800B798FC /* ngyufei.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ngyufei.html; sourceTree = "<group>"; };
 		6CB6FE122C5FC95700B798FC /* denisemcintyre.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = denisemcintyre.html; sourceTree = "<group>"; };
@@ -160,6 +161,7 @@
 				6CBD4221293207B5001ED55A /* huangdanwei.github.io.xcodeproj */,
 				6CBD421C293207B5001ED55A /* images */,
 				6CBD4228293207B5001ED55A /* index.html */,
+				6CB2122730B5D782009D1E4D /* apcrs2023.html */,
 				6CBD423D293207B6001ED55A /* information */,
 				6C5DF4872E6DD7AB002B6FCB /* jamescabatbat.html */,
 				6CBD422B293207B5001ED55A /* jeffreylow.html */,
